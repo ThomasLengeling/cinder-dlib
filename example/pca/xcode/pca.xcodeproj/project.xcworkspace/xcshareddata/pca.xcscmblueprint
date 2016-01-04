@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "75181976BA2CF7C52E4BC7DA25C9402DA9F8BA4E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "75181976BA2CF7C52E4BC7DA25C9402DA9F8BA4E" : 0,
+    "AD4B458D0D225ED63FAE0155615993B7D3ECE020" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B2241908-AB90-44F8-8B86-D9503F553F00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "75181976BA2CF7C52E4BC7DA25C9402DA9F8BA4E" : "Cinder-dlib\/",
+    "AD4B458D0D225ED63FAE0155615993B7D3ECE020" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pca",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example\/pca\/xcode\/pca.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ThomasLengeling\/cinder-dlib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75181976BA2CF7C52E4BC7DA25C9402DA9F8BA4E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cinder\/Cinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD4B458D0D225ED63FAE0155615993B7D3ECE020"
+    }
+  ]
+}

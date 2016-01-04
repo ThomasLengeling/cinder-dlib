@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/tom/Documents/Programming/Cinder/Cinder/blocks/Cinder-dlib/example/Clasification/src/ClasificationApp.cpp \
+  /Users/tom/Documents/Programming/Cinder/Cinder/blocks/Cinder-dlib/example/Regression/src/RegressionApp.cpp \
   ../../../../../include/cinder/app/RendererGl.h \
+  ../../../../../include/cinder/Rand.h \
   /Users/tom/Documents/Programming/Cinder/Cinder/blocks/Cinder-dlib/src/ciDlib.h \
   ../../../../../include/cinder/Log.h \
-  ../../../../../include/cinder/System.h \
-  ../../../../../include/cinder/Rand.h ../../../lib/dlib/svm.h \
+  ../../../../../include/cinder/System.h ../../../lib/dlib/svm.h \
   ../../../lib/dlib/svm/svm_rank_trainer.h \
   ../../../lib/dlib/svm/svm_rank_trainer_abstract.h \
   ../../../lib/dlib/svm/ranking_tools.h \
